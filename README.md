@@ -1,3 +1,4 @@
+
 # s25_cs585_proj
 Spring 25 CS585 Final Project
 
@@ -8,9 +9,9 @@ Group Members
 - Rakin Munim
 - Member 4
 
-====================  
+==============
 Possible Directions 
-_____________________
+__________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 @rakin's pitch
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
@@ -21,11 +22,11 @@ Research Axes:
 - exploring how the human brain represents this task
 - data creation: generating a small internal dataset to test network with
 Applications: robotic systems requiring dynamic spatial processing. 
-_____________________
+__________________
 ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 
 
 
 
 
-=====================
+===============
